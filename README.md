@@ -1,3 +1,3 @@
 # Introdução JavaScript
 
-Esse é um dos primeiros projetos que coloquei em prática, utilizando JavaScript em uma página HTML
+Essas são as minhas primeiras práticas em JavaScript^^ 
